@@ -1,6 +1,8 @@
+import Cabecalho from "../../components/Cabecalho";
+
 function Inicio() {
     return (
-        <h1>Hello World! Estou em página nova</h1>
+        <Cabecalho />
     )
 }
 
